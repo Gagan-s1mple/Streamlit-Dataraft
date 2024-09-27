@@ -1,0 +1,14 @@
+{
+  "description": "",
+  "data": {
+    "values": []
+  },
+  "width": 700,
+  "height": 500,
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "", "type": ""},
+    "y": {"field": "", "type": "quantitative"},
+    "color": {"field": "", "type": "nominal"}
+  }
+}

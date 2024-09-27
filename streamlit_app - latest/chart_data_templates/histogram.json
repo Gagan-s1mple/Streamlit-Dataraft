@@ -1,0 +1,19 @@
+{
+  "description": "",
+  "data": {
+    "values": []
+  },
+  "width": 700,
+  "height": 500,
+  "mark": "bar",
+  "encoding": {
+    "x": {
+        "bin": {
+            "binned": true,
+            "step": 2.5
+          },
+      "field": ""
+    },
+    "y": {"aggregate": "count"}
+  }
+}

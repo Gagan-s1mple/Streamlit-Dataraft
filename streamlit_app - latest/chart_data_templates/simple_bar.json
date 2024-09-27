@@ -1,0 +1,13 @@
+{
+    "width": 700,
+    "height": 500,
+    "description": "",
+  "data": {
+    "values": []
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "", "type": "nominal", "axis": {"labelAngle": 0}},
+    "y": {"field": "", "type": "quantitative"}
+  }
+}

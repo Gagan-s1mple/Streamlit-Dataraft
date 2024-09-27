@@ -1,0 +1,29 @@
+{
+  "data": {
+    "values": []
+  },
+  "width": 700,
+  "height": 500,
+  "mark": {
+    "type": "circle",
+    "opacity": 0.8,
+    "stroke": "black",
+    "strokeWidth": 1
+  },
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "quantitative",
+      "axis": {"grid": false}
+    },
+    "y": {"field": "", "type": "quantitative", "axis": {"title": ""}},
+    "size": {
+      "field": "",
+      "type": "quantitative",
+      "title": "",
+      "legend": {"clipHeight": 30},
+      "scale": {"rangeMax": 5000}
+    },
+    "color": {"field": "", "type": "quantitative", "legend": null}
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "width": 700,
+  "height": 500,
+"data": {"values": []},
+"transform": [{
+  }],
+  "mark": "circle",
+  "encoding": {
+    "x": {"field": "", "type": "quantitative"},
+    "y": {"field": "", "type": "quantitative"}
+  }
+}
